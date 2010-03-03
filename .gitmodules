@@ -1,0 +1,3 @@
+[submodule "smsc_reports"]
+	path = smsc_reports
+	url = git@github.com:mobme/smsc_reports.git
